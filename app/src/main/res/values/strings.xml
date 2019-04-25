@@ -1,0 +1,8 @@
+<resources>
+    <string name="add">add</string>
+    <string name="search">search</string>
+    <string name="text">text</string>
+    <string name="app_name">SQLserver</string>
+    <string name="list">list</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
